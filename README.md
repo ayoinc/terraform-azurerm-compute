@@ -1,5 +1,7 @@
 # terraform-azurerm-compute
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/d6df3cd7-740e-4039-99f4-777ede70629a.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/terraform-azurerm-compute)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/bf94db2f-597a-45c2-9aae-d55beeab16a6.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/terraform-azurerm-compute)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/cc6c03a5-587b-42ca-8e70-9604968c805f.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/terraform-azurerm-compute)  
+
 [![Build Status](https://travis-ci.org/Azure/terraform-azurerm-compute.svg?branch=master)](https://travis-ci.org/Azure/terraform-azurerm-compute)
 
 ## Deploys 1+ Virtual Machines to your provided VNet
